@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsApplication", "GenericsApplication\GenericsApplication.csproj", "{10EBBB66-B825-4329-B3D0-DED1120D3E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mall", "Mall\Mall.csproj", "{3FE4CC97-0870-499A-B96F-45F62B960615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EBBB66-B825-4329-B3D0-DED1120D3E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EBBB66-B825-4329-B3D0-DED1120D3E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EBBB66-B825-4329-B3D0-DED1120D3E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EBBB66-B825-4329-B3D0-DED1120D3E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE4CC97-0870-499A-B96F-45F62B960615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE4CC97-0870-499A-B96F-45F62B960615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE4CC97-0870-499A-B96F-45F62B960615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE4CC97-0870-499A-B96F-45F62B960615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153FF3EC-290D-4855-984A-3C57D5B122E5}
+	EndGlobalSection
+EndGlobal
